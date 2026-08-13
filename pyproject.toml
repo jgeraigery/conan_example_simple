@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-conan = "^2.7.1"
+conan = "^2.26.0"
 
 [build-system]
 requires = ["poetry-core"]
